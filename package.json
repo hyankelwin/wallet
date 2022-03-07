@@ -38,7 +38,7 @@
     "clean": "rm -rf build && mkdir build",
     "eject": "react-scripts eject",
     "lint": "eslint src --ext ts,tsx",
-    "test:CI": "react-scripts test --watchAll=false --coverage",
+    "test:coverage": "react-scripts test --watchAll=false --coverage",
     "coveralls": "cat ./coverage/lcov.info | coveralls",
     "deploy:heroku": "git push heroku master"
   },
