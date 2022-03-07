@@ -1,0 +1,25 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Tooltip component should render Tooltip component not passed property className with success 1`] = `
+"<Tooltip title=\\"teste\\">
+  <styled.div className=\\"\\" small={[undefined]}>
+    <div className=\\"sc-bdvvtL lbHHvh\\">
+      <span>
+        teste
+      </span>
+    </div>
+  </styled.div>
+</Tooltip>"
+`;
+
+exports[`Tooltip component should render Tooltip component with success 1`] = `
+"<Tooltip title=\\"teste\\" className=\\"name-teste\\">
+  <styled.div className=\\"name-teste\\" small={[undefined]}>
+    <div className=\\"sc-bdvvtL lbHHvh name-teste\\">
+      <span>
+        teste
+      </span>
+    </div>
+  </styled.div>
+</Tooltip>"
+`;
