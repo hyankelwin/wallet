@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CardItemDesign component should be able to render CardItemDesign component with success 1`] = `
+"<CardItemDesign src=\\"/static/logo.png\\">
+  <styled.div>
+    <div className=\\"sc-bdvvtL cRHldS\\">
+      <styled.div src=\\"/static/logo.png\\">
+        <div src=\\"/static/logo.png\\" className=\\"sc-gsDKAQ braFDF\\" />
+      </styled.div>
+    </div>
+  </styled.div>
+</CardItemDesign>"
+`;

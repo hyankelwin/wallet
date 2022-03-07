@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`HeaderImage component should be able to render HeaderImage component with success 1`] = `
+"<HeaderImage>
+  <styled.div>
+    <div className=\\"sc-bdvvtL eSCykS\\" />
+  </styled.div>
+</HeaderImage>"
+`;

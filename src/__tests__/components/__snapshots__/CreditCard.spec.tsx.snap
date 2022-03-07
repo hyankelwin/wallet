@@ -1,0 +1,547 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CreditCard component should be able to passed in all tests on index.tsx should be able to render CreditCard component with success 1`] = `
+"<CreditCard values={{...}} side={{...}} fieldFocused=\\"number\\" imageSelected=\\"/static/img1.png\\" flagCard={{...}}>
+  <styled.div>
+    <div className=\\"sc-bdvvtL cjgPzW\\">
+      <styled.div side={{...}} fieldFocused=\\"number\\" image=\\"/static/img1.png\\">
+        <div className=\\"sc-gsDKAQ eChlKK\\">
+          <styled.div>
+            <div className=\\"sc-hKwDye thxOl\\">
+              <img src=\\"chip.png\\" alt=\\"\\" />
+              <img src=\\"/static/amex.png\\" alt=\\"\\" />
+            </div>
+          </styled.div>
+          <div className=\\"card-number-box\\">
+            4
+            7
+            4
+            1
+             
+            5
+            8
+            5
+            4
+             
+            6
+            8
+            5
+            4
+             
+            0
+            1
+            2
+            5
+          </div>
+          <div className=\\"flexbox\\">
+            <div className=\\"box\\">
+              <span>
+                Card holder
+              </span>
+              <div className=\\"card-holder-name\\">
+                HYAN KELWIN SILVA FREITAS
+              </div>
+            </div>
+            <div className=\\"box\\">
+              <span>
+                expires
+              </span>
+              <div className=\\"expiration\\">
+                <span className=\\"exp-month\\">
+                  MM
+                  /
+                </span>
+                <span className=\\"exp-year\\">
+                  YY
+                </span>
+              </div>
+            </div>
+          </div>
+        </div>
+      </styled.div>
+      <styled.div side={{...}} fieldFocused=\\"number\\" image=\\"/static/img1.png\\">
+        <div className=\\"sc-dkPtRN cfEmyU\\">
+          <div className=\\"stripe\\" />
+          <div className=\\"box\\">
+            <span>
+              cvv
+            </span>
+            <div className=\\"cvv-box\\">
+              123
+            </div>
+            <img src=\\"/static/amex.png\\" alt=\\"\\" />
+          </div>
+        </div>
+      </styled.div>
+    </div>
+  </styled.div>
+</CreditCard>"
+`;
+
+exports[`CreditCard component should be able to passed in all tests on index.tsx should be able to render CreditCard when values.expiration_month is empty 1`] = `
+"<CreditCard values={{...}} side={{...}} fieldFocused=\\"number\\" imageSelected=\\"/static/img1.png\\" flagCard={{...}}>
+  <styled.div>
+    <div className=\\"sc-bdvvtL cjgPzW\\">
+      <styled.div side={{...}} fieldFocused=\\"number\\" image=\\"/static/img1.png\\">
+        <div className=\\"sc-gsDKAQ eChlKK\\">
+          <styled.div>
+            <div className=\\"sc-hKwDye thxOl\\">
+              <img src=\\"chip.png\\" alt=\\"\\" />
+              <img src=\\"/static/amex.png\\" alt=\\"\\" />
+            </div>
+          </styled.div>
+          <div className=\\"card-number-box\\">
+            4
+            7
+            4
+            1
+             
+            5
+            8
+            5
+            4
+             
+            6
+            8
+            5
+            4
+             
+            0
+            1
+            2
+            5
+          </div>
+          <div className=\\"flexbox\\">
+            <div className=\\"box\\">
+              <span>
+                Card holder
+              </span>
+              <div className=\\"card-holder-name\\">
+                HYAN KELWIN SILVA FREITAS
+              </div>
+            </div>
+            <div className=\\"box\\">
+              <span>
+                expires
+              </span>
+              <div className=\\"expiration\\">
+                <span className=\\"exp-month\\">
+                  MM
+                  /
+                </span>
+                <span className=\\"exp-year\\">
+                  YY
+                </span>
+              </div>
+            </div>
+          </div>
+        </div>
+      </styled.div>
+      <styled.div side={{...}} fieldFocused=\\"number\\" image=\\"/static/img1.png\\">
+        <div className=\\"sc-dkPtRN cfEmyU\\">
+          <div className=\\"stripe\\" />
+          <div className=\\"box\\">
+            <span>
+              cvv
+            </span>
+            <div className=\\"cvv-box\\">
+              123
+            </div>
+            <img src=\\"/static/amex.png\\" alt=\\"\\" />
+          </div>
+        </div>
+      </styled.div>
+    </div>
+  </styled.div>
+</CreditCard>"
+`;
+
+exports[`CreditCard component should be able to passed in all tests on index.tsx should be able to render CreditCard when values.expiration_year is empty 1`] = `
+"<CreditCard values={{...}} side={{...}} fieldFocused=\\"number\\" imageSelected=\\"/static/img1.png\\" flagCard={{...}}>
+  <styled.div>
+    <div className=\\"sc-bdvvtL cjgPzW\\">
+      <styled.div side={{...}} fieldFocused=\\"number\\" image=\\"/static/img1.png\\">
+        <div className=\\"sc-gsDKAQ eChlKK\\">
+          <styled.div>
+            <div className=\\"sc-hKwDye thxOl\\">
+              <img src=\\"chip.png\\" alt=\\"\\" />
+              <img src=\\"/static/amex.png\\" alt=\\"\\" />
+            </div>
+          </styled.div>
+          <div className=\\"card-number-box\\">
+            4
+            7
+            4
+            1
+             
+            5
+            8
+            5
+            4
+             
+            6
+            8
+            5
+            4
+             
+            0
+            1
+            2
+            5
+          </div>
+          <div className=\\"flexbox\\">
+            <div className=\\"box\\">
+              <span>
+                Card holder
+              </span>
+              <div className=\\"card-holder-name\\">
+                HYAN KELWIN SILVA FREITAS
+              </div>
+            </div>
+            <div className=\\"box\\">
+              <span>
+                expires
+              </span>
+              <div className=\\"expiration\\">
+                <span className=\\"exp-month\\">
+                  MM
+                  /
+                </span>
+                <span className=\\"exp-year\\">
+                  YY
+                </span>
+              </div>
+            </div>
+          </div>
+        </div>
+      </styled.div>
+      <styled.div side={{...}} fieldFocused=\\"number\\" image=\\"/static/img1.png\\">
+        <div className=\\"sc-dkPtRN cfEmyU\\">
+          <div className=\\"stripe\\" />
+          <div className=\\"box\\">
+            <span>
+              cvv
+            </span>
+            <div className=\\"cvv-box\\">
+              123
+            </div>
+            <img src=\\"/static/amex.png\\" alt=\\"\\" />
+          </div>
+        </div>
+      </styled.div>
+    </div>
+  </styled.div>
+</CreditCard>"
+`;
+
+exports[`CreditCard component should be able to passed in all tests on index.tsx should be able to render CreditCard when values.name is empty 1`] = `
+"<CreditCard values={{...}} side={{...}} fieldFocused=\\"number\\" imageSelected=\\"/static/img1.png\\" flagCard={{...}}>
+  <styled.div>
+    <div className=\\"sc-bdvvtL cjgPzW\\">
+      <styled.div side={{...}} fieldFocused=\\"number\\" image=\\"/static/img1.png\\">
+        <div className=\\"sc-gsDKAQ eChlKK\\">
+          <styled.div>
+            <div className=\\"sc-hKwDye thxOl\\">
+              <img src=\\"chip.png\\" alt=\\"\\" />
+              <img src=\\"/static/amex.png\\" alt=\\"\\" />
+            </div>
+          </styled.div>
+          <div className=\\"card-number-box\\">
+            4
+            7
+            4
+            1
+             
+            5
+            8
+            5
+            4
+             
+            6
+            8
+            5
+            4
+             
+            0
+            1
+            2
+            5
+          </div>
+          <div className=\\"flexbox\\">
+            <div className=\\"box\\">
+              <span>
+                Card holder
+              </span>
+              <div className=\\"card-holder-name\\">
+                NOME
+              </div>
+            </div>
+            <div className=\\"box\\">
+              <span>
+                expires
+              </span>
+              <div className=\\"expiration\\">
+                <span className=\\"exp-month\\">
+                  MM
+                  /
+                </span>
+                <span className=\\"exp-year\\">
+                  YY
+                </span>
+              </div>
+            </div>
+          </div>
+        </div>
+      </styled.div>
+      <styled.div side={{...}} fieldFocused=\\"number\\" image=\\"/static/img1.png\\">
+        <div className=\\"sc-dkPtRN cfEmyU\\">
+          <div className=\\"stripe\\" />
+          <div className=\\"box\\">
+            <span>
+              cvv
+            </span>
+            <div className=\\"cvv-box\\">
+              123
+            </div>
+            <img src=\\"/static/amex.png\\" alt=\\"\\" />
+          </div>
+        </div>
+      </styled.div>
+    </div>
+  </styled.div>
+</CreditCard>"
+`;
+
+exports[`CreditCard component should be able to passed in all tests on index.tsx should be able to render CreditCard when values.number of mountReplaceNumber is empty 1`] = `
+"<CreditCard values={{...}} side={{...}} fieldFocused=\\"number\\" imageSelected=\\"/static/img1.png\\" flagCard={{...}}>
+  <styled.div>
+    <div className=\\"sc-bdvvtL cjgPzW\\">
+      <styled.div side={{...}} fieldFocused=\\"number\\" image=\\"/static/img1.png\\">
+        <div className=\\"sc-gsDKAQ eChlKK\\">
+          <styled.div>
+            <div className=\\"sc-hKwDye thxOl\\">
+              <img src=\\"chip.png\\" alt=\\"\\" />
+              <img src=\\"/static/amex.png\\" alt=\\"\\" />
+            </div>
+          </styled.div>
+          <div className=\\"card-number-box\\">
+            #
+            #
+            #
+            #
+             
+            #
+            #
+            #
+            #
+             
+            #
+            #
+            #
+            #
+             
+            #
+            #
+            #
+            #
+          </div>
+          <div className=\\"flexbox\\">
+            <div className=\\"box\\">
+              <span>
+                Card holder
+              </span>
+              <div className=\\"card-holder-name\\">
+                HYAN KELWIN SILVA FREITAS
+              </div>
+            </div>
+            <div className=\\"box\\">
+              <span>
+                expires
+              </span>
+              <div className=\\"expiration\\">
+                <span className=\\"exp-month\\">
+                  MM
+                  /
+                </span>
+                <span className=\\"exp-year\\">
+                  YY
+                </span>
+              </div>
+            </div>
+          </div>
+        </div>
+      </styled.div>
+      <styled.div side={{...}} fieldFocused=\\"number\\" image=\\"/static/img1.png\\">
+        <div className=\\"sc-dkPtRN cfEmyU\\">
+          <div className=\\"stripe\\" />
+          <div className=\\"box\\">
+            <span>
+              cvv
+            </span>
+            <div className=\\"cvv-box\\">
+              123
+            </div>
+            <img src=\\"/static/amex.png\\" alt=\\"\\" />
+          </div>
+        </div>
+      </styled.div>
+    </div>
+  </styled.div>
+</CreditCard>"
+`;
+
+exports[`CreditCard component should be able to passed in all tests on styles.ts should be able to render CreditCard when side.image is empty 1`] = `
+"<CreditCard values={{...}} side={{...}} fieldFocused=\\"number\\" imageSelected=\\"\\" flagCard={{...}}>
+  <styled.div>
+    <div className=\\"sc-bdvvtL cjgPzW\\">
+      <styled.div side={{...}} fieldFocused=\\"number\\" image=\\"\\">
+        <div className=\\"sc-gsDKAQ jdpFZL\\">
+          <styled.div>
+            <div className=\\"sc-hKwDye thxOl\\">
+              <img src=\\"chip.png\\" alt=\\"\\" />
+              <img src=\\"/static/amex.png\\" alt=\\"\\" />
+            </div>
+          </styled.div>
+          <div className=\\"card-number-box\\">
+            4
+            7
+            4
+            1
+             
+            5
+            8
+            5
+            4
+             
+            6
+            8
+            5
+            4
+             
+            0
+            1
+            2
+            5
+          </div>
+          <div className=\\"flexbox\\">
+            <div className=\\"box\\">
+              <span>
+                Card holder
+              </span>
+              <div className=\\"card-holder-name\\">
+                HYAN KELWIN SILVA FREITAS
+              </div>
+            </div>
+            <div className=\\"box\\">
+              <span>
+                expires
+              </span>
+              <div className=\\"expiration\\">
+                <span className=\\"exp-month\\">
+                  MM
+                  /
+                </span>
+                <span className=\\"exp-year\\">
+                  YY
+                </span>
+              </div>
+            </div>
+          </div>
+        </div>
+      </styled.div>
+      <styled.div side={{...}} fieldFocused=\\"number\\" image=\\"\\">
+        <div className=\\"sc-dkPtRN ftitgU\\">
+          <div className=\\"stripe\\" />
+          <div className=\\"box\\">
+            <span>
+              cvv
+            </span>
+            <div className=\\"cvv-box\\">
+              123
+            </div>
+            <img src=\\"/static/amex.png\\" alt=\\"\\" />
+          </div>
+        </div>
+      </styled.div>
+    </div>
+  </styled.div>
+</CreditCard>"
+`;
+
+exports[`CreditCard component should be able to passed in all tests on styles.ts should be able to render CreditCard when side.value is true 1`] = `
+"<CreditCard values={{...}} side={{...}} fieldFocused=\\"number\\" imageSelected=\\"/static/img1.png\\" flagCard={{...}}>
+  <styled.div>
+    <div className=\\"sc-bdvvtL cjgPzW\\">
+      <styled.div side={{...}} fieldFocused=\\"number\\" image=\\"/static/img1.png\\">
+        <div className=\\"sc-gsDKAQ iWIpvS\\">
+          <styled.div>
+            <div className=\\"sc-hKwDye thxOl\\">
+              <img src=\\"chip.png\\" alt=\\"\\" />
+              <img src=\\"/static/amex.png\\" alt=\\"\\" />
+            </div>
+          </styled.div>
+          <div className=\\"card-number-box\\">
+            4
+            7
+            4
+            1
+             
+            5
+            8
+            5
+            4
+             
+            6
+            8
+            5
+            4
+             
+            0
+            1
+            2
+            5
+          </div>
+          <div className=\\"flexbox\\">
+            <div className=\\"box\\">
+              <span>
+                Card holder
+              </span>
+              <div className=\\"card-holder-name\\">
+                HYAN KELWIN SILVA FREITAS
+              </div>
+            </div>
+            <div className=\\"box\\">
+              <span>
+                expires
+              </span>
+              <div className=\\"expiration\\">
+                <span className=\\"exp-month\\">
+                  MM
+                  /
+                </span>
+                <span className=\\"exp-year\\">
+                  YY
+                </span>
+              </div>
+            </div>
+          </div>
+        </div>
+      </styled.div>
+      <styled.div side={{...}} fieldFocused=\\"number\\" image=\\"/static/img1.png\\">
+        <div className=\\"sc-dkPtRN koWDSN\\">
+          <div className=\\"stripe\\" />
+          <div className=\\"box\\">
+            <span>
+              cvv
+            </span>
+            <div className=\\"cvv-box\\">
+              123
+            </div>
+            <img src=\\"/static/amex.png\\" alt=\\"\\" />
+          </div>
+        </div>
+      </styled.div>
+    </div>
+  </styled.div>
+</CreditCard>"
+`;

@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Button component should be able to render Button component with success 1`] = `
+"<Button color=\\"#FFFFFF\\" background=\\"#252a40\\">
+  <styled.button type=\\"button\\" color=\\"#FFFFFF\\" background=\\"#252a40\\">
+    <button type=\\"button\\" color=\\"#FFFFFF\\" className=\\"sc-bdvvtL kOqqac\\" />
+  </styled.button>
+</Button>"
+`;

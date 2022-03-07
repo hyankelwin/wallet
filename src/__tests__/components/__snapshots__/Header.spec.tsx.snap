@@ -1,0 +1,25 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Header component should be able to render Header component with success 1`] = `
+"<Header>
+  <styled.div>
+    <div className=\\"sc-bdvvtL gfWDWR\\">
+      <div>
+        <HeaderImage>
+          <styled.div>
+            <div className=\\"sc-gsDKAQ gwkgJf\\" />
+          </styled.div>
+        </HeaderImage>
+      </div>
+      <div>
+        <p>
+          Your wallet
+        </p>
+        <p>
+          digital
+        </p>
+      </div>
+    </div>
+  </styled.div>
+</Header>"
+`;
