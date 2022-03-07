@@ -1,0 +1,1238 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Home Page should be able to render Create Card  should be able to render Card for create new credit card 1`] = `
+<DocumentFragment>
+  <div
+    class="sc-iwjdpV bzjClx"
+  >
+    <div>
+      <div
+        class="sc-cxpSdN jCjCOy"
+      />
+    </div>
+    <div>
+      <p>
+        Your wallet
+      </p>
+      <p>
+        digital
+      </p>
+    </div>
+  </div>
+  <div
+    class="sc-llYSUQ kWtNHa"
+  >
+    <div
+      class="sc-fFeiMQ gRnYkL"
+    >
+      <div
+        class="sc-bkkeKt gvCfsz"
+      >
+        <div
+          class="container-list"
+        >
+          <p>
+            Hi, Welcome to Wallet
+          </p>
+          <span>
+            The wallet digital help you controlled your cards, with it your can create your cards simple and with the design very sophisticated
+          </span>
+        </div>
+        <div
+          class="container-design"
+        >
+          <p>
+            Some of our desing for use in your card...
+          </p>
+          <div
+            class="sc-ieecCq kmdjgO"
+          >
+            <div
+              class="sc-eCImPb ifZjaM"
+            >
+              <div
+                class="sc-jRQBWg bvzNPm"
+                src="10.jpeg"
+              />
+            </div>
+            <div
+              class="sc-eCImPb ifZjaM"
+            >
+              <div
+                class="sc-jRQBWg eqcYAQ"
+                src="12.jpeg"
+              />
+            </div>
+            <div
+              class="sc-eCImPb ifZjaM"
+            >
+              <div
+                class="sc-jRQBWg lmbYZx"
+                src="13.jpeg"
+              />
+            </div>
+            <div
+              class="sc-eCImPb ifZjaM"
+            >
+              <div
+                class="sc-jRQBWg enXMeK"
+                src="14.jpeg"
+              />
+            </div>
+            <div
+              class="sc-eCImPb ifZjaM"
+            >
+              <div
+                class="sc-jRQBWg hiAWQo"
+                src="16.jpeg"
+              />
+            </div>
+            <div
+              class="sc-eCImPb ifZjaM"
+            >
+              <div
+                class="sc-jRQBWg cPenPZ"
+                src="17.jpeg"
+              />
+            </div>
+            <div
+              class="sc-eCImPb ifZjaM"
+            >
+              <div
+                class="sc-jRQBWg zxIrf"
+                src="19.jpeg"
+              />
+            </div>
+            <div
+              class="sc-eCImPb ifZjaM"
+            >
+              <div
+                class="sc-jRQBWg bFRFMi"
+                src="23.jpeg"
+              />
+            </div>
+            <div
+              class="sc-eCImPb ifZjaM"
+            >
+              <div
+                class="sc-jRQBWg ifQyDt"
+                src="24.jpeg"
+              />
+            </div>
+            <div
+              class="sc-eCImPb ifZjaM"
+            >
+              <div
+                class="sc-jRQBWg iQunLI"
+                src="25.jpeg"
+              />
+            </div>
+          </div>
+        </div>
+        <div
+          class="container-footer"
+        >
+          <p>
+            After use our site indicate for your friends, comment how was your expirence when using the Wallet
+          </p>
+        </div>
+      </div>
+      <div
+        class="sc-dJjYzT ibzJxK"
+      >
+        <div
+          class="sc-hGPBjI hjeTet"
+        >
+          <div
+            class="sc-dlVxhl gCwStD"
+          >
+            <p>
+              Create your credit card
+            </p>
+            <span>
+              In this section you will be able to create your cards the way you want.
+            </span>
+            <span>
+              Enjoy!
+            </span>
+          </div>
+          <div
+            class="sc-bdvvtL cjgPzW"
+          >
+            <div
+              class="sc-gsDKAQ gfdoDN"
+            >
+              <div
+                class="sc-hKwDye thxOl"
+              >
+                <img
+                  alt=""
+                  src="chip.png"
+                />
+                <img
+                  alt=""
+                  src="/static/amex.png"
+                />
+              </div>
+              <div
+                class="card-number-box"
+              >
+                4741 5854 6854 0125
+              </div>
+              <div
+                class="flexbox"
+              >
+                <div
+                  class="box"
+                >
+                  <span>
+                    Card holder
+                  </span>
+                  <div
+                    class="card-holder-name"
+                  >
+                    HYAN KELWIN SILVA FREITAS
+                  </div>
+                </div>
+                <div
+                  class="box"
+                >
+                  <span>
+                    expires
+                  </span>
+                  <div
+                    class="expiration"
+                  >
+                    <span
+                      class="exp-month"
+                    >
+                      10/
+                    </span>
+                    <span
+                      class="exp-year"
+                    >
+                      28
+                    </span>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div
+              class="sc-dkPtRN eJkBta"
+            >
+              <div
+                class="stripe"
+              />
+              <div
+                class="box"
+              >
+                <span>
+                  cvv
+                </span>
+                <div
+                  class="cvv-box"
+                >
+                  123
+                </div>
+                <img
+                  alt=""
+                  src="/static/amex.png"
+                />
+              </div>
+            </div>
+          </div>
+          <form>
+            <div
+              class="sc-kDTinF eAWMnG"
+            >
+              <div
+                class="sc-iqseJM fgwKcr"
+                data-testid="image-card-test"
+              />
+              <div
+                class="sc-iqseJM jCavMZ"
+                data-testid="image-card-test"
+              />
+              <div
+                class="sc-iqseJM infwMI"
+                data-testid="image-card-test"
+              />
+              <div
+                class="sc-iqseJM kgIPGT"
+                data-testid="image-card-test"
+              />
+              <div
+                class="sc-iqseJM dmQRSF"
+                data-testid="image-card-test"
+              />
+              <div
+                class="sc-iqseJM bXVSSo"
+                data-testid="image-card-test"
+              />
+              <div
+                class="sc-iqseJM cTKpPS"
+                data-testid="image-card-test"
+              />
+              <div
+                class="sc-iqseJM bIKJPv"
+                data-testid="image-card-test"
+              />
+              <div
+                class="sc-iqseJM MRXAg"
+                data-testid="image-card-test"
+              />
+              <div
+                class="sc-iqseJM hFCstJ"
+                data-testid="image-card-test"
+              />
+            </div>
+            <div
+              class="sc-furwcr kHjhdp"
+            >
+              <div
+                class="sc-jrQzAO kMOhus"
+              >
+                <span>
+                  Card number
+                </span>
+                <div
+                  class="sc-egiyK iNhbEW"
+                  data-testid="input-container"
+                >
+                  <svg
+                    fill="none"
+                    height="20"
+                    stroke="currentColor"
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                    stroke-width="2"
+                    viewBox="0 0 24 24"
+                    width="20"
+                    xmlns="http://www.w3.org/2000/svg"
+                  >
+                    <path
+                      d="M21 2l-2 2m-7.61 7.61a5.5 5.5 0 1 1-7.778 7.778 5.5 5.5 0 0 1 7.777-7.777zm0 0L15.5 7.5m0 0l3 3L22 7l-3-3m-3.5 3.5L19 4"
+                    />
+                  </svg>
+                  <input
+                    data-testid="input-number"
+                    value=""
+                  />
+                </div>
+              </div>
+              <div
+                class="sc-jrQzAO kMOhus"
+              >
+                <span>
+                  Card name
+                </span>
+                <div
+                  class="sc-egiyK iNhbEW"
+                  data-testid="input-container"
+                >
+                  <svg
+                    fill="none"
+                    height="20"
+                    stroke="currentColor"
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                    stroke-width="2"
+                    viewBox="0 0 24 24"
+                    width="20"
+                    xmlns="http://www.w3.org/2000/svg"
+                  >
+                    <path
+                      d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"
+                    />
+                    <circle
+                      cx="12"
+                      cy="7"
+                      r="4"
+                    />
+                  </svg>
+                  <input
+                    data-testid="input-name"
+                    style="text-transform: uppercase;"
+                    value=""
+                  />
+                </div>
+              </div>
+              <div
+                class="sc-jrQzAO kMOhus"
+              >
+                <span>
+                  Expiration date
+                </span>
+                <div
+                  class="row"
+                >
+                  <div
+                    class="expiration-input"
+                  >
+                    <div
+                      class="sc-ksdxgE ienaPM"
+                      data-testid="input-select-container"
+                    >
+                      <select
+                        data-testid="input-month"
+                      >
+                        <option
+                          hidden=""
+                          value=""
+                        >
+                          Month
+                        </option>
+                        <option
+                          value="01"
+                        >
+                          01
+                        </option>
+                        <option
+                          value="02"
+                        >
+                          02
+                        </option>
+                        <option
+                          value="03"
+                        >
+                          03
+                        </option>
+                        <option
+                          value="04"
+                        >
+                          04
+                        </option>
+                        <option
+                          value="05"
+                        >
+                          05
+                        </option>
+                        <option
+                          value="06"
+                        >
+                          06
+                        </option>
+                        <option
+                          value="07"
+                        >
+                          07
+                        </option>
+                        <option
+                          value="08"
+                        >
+                          08
+                        </option>
+                        <option
+                          value="09"
+                        >
+                          09
+                        </option>
+                        <option
+                          value="10"
+                        >
+                          10
+                        </option>
+                        <option
+                          value="11"
+                        >
+                          11
+                        </option>
+                        <option
+                          value="12"
+                        >
+                          12
+                        </option>
+                      </select>
+                    </div>
+                    <div
+                      class="sc-ksdxgE ienaPM"
+                      data-testid="input-select-container"
+                    >
+                      <select
+                        data-testid="input-year"
+                      >
+                        <option
+                          hidden=""
+                          value=""
+                        >
+                          Year
+                        </option>
+                        <option
+                          value="2022"
+                        >
+                          2022
+                        </option>
+                        <option
+                          value="2023"
+                        >
+                          2023
+                        </option>
+                        <option
+                          value="2024"
+                        >
+                          2024
+                        </option>
+                        <option
+                          value="2025"
+                        >
+                          2025
+                        </option>
+                        <option
+                          value="2026"
+                        >
+                          2026
+                        </option>
+                        <option
+                          value="2027"
+                        >
+                          2027
+                        </option>
+                        <option
+                          value="2028"
+                        >
+                          2028
+                        </option>
+                        <option
+                          value="2029"
+                        >
+                          2029
+                        </option>
+                        <option
+                          value="2030"
+                        >
+                          2030
+                        </option>
+                        <option
+                          value="2031"
+                        >
+                          2031
+                        </option>
+                        <option
+                          value="2032"
+                        >
+                          2032
+                        </option>
+                      </select>
+                    </div>
+                  </div>
+                  <div
+                    class="cvv"
+                  >
+                    <div
+                      class="sc-egiyK iNhbEW"
+                      data-testid="input-container"
+                    >
+                      <input
+                        data-testid="input-cvv"
+                        placeholder="CVV"
+                        value=""
+                      />
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div
+                class="sc-pVTFL iFBCOK"
+              >
+                <button
+                  class="sc-fotOHu ghEvsB"
+                  color="#FFFFFF"
+                  type="submit"
+                >
+                  Create new card
+                </button>
+              </div>
+            </div>
+          </form>
+        </div>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`Home Page should be able to render Loader should be able to render Loader when isLoading is true 1`] = `
+<DocumentFragment>
+  <div
+    class="sc-iwjdpV bzjClx"
+  >
+    <div>
+      <div
+        class="sc-cxpSdN jCjCOy"
+      />
+    </div>
+    <div>
+      <p>
+        Your wallet
+      </p>
+      <p>
+        digital
+      </p>
+    </div>
+  </div>
+  <div
+    class="sc-llYSUQ kWtNHa"
+  >
+    <div
+      class="sc-fFeiMQ gRnYkL"
+    >
+      <div
+        class="sc-bkkeKt gvCfsz"
+      >
+        <div
+          class="container-list"
+        >
+          <p>
+            Hi, Welcome to Wallet
+          </p>
+          <span>
+            The wallet digital help you controlled your cards, with it your can create your cards simple and with the design very sophisticated
+          </span>
+        </div>
+        <div
+          class="container-design"
+        >
+          <p>
+            Some of our desing for use in your card...
+          </p>
+          <div
+            class="sc-ieecCq kmdjgO"
+          >
+            <div
+              class="sc-eCImPb ifZjaM"
+            >
+              <div
+                class="sc-jRQBWg bvzNPm"
+                src="10.jpeg"
+              />
+            </div>
+            <div
+              class="sc-eCImPb ifZjaM"
+            >
+              <div
+                class="sc-jRQBWg eqcYAQ"
+                src="12.jpeg"
+              />
+            </div>
+            <div
+              class="sc-eCImPb ifZjaM"
+            >
+              <div
+                class="sc-jRQBWg lmbYZx"
+                src="13.jpeg"
+              />
+            </div>
+            <div
+              class="sc-eCImPb ifZjaM"
+            >
+              <div
+                class="sc-jRQBWg enXMeK"
+                src="14.jpeg"
+              />
+            </div>
+            <div
+              class="sc-eCImPb ifZjaM"
+            >
+              <div
+                class="sc-jRQBWg hiAWQo"
+                src="16.jpeg"
+              />
+            </div>
+            <div
+              class="sc-eCImPb ifZjaM"
+            >
+              <div
+                class="sc-jRQBWg cPenPZ"
+                src="17.jpeg"
+              />
+            </div>
+            <div
+              class="sc-eCImPb ifZjaM"
+            >
+              <div
+                class="sc-jRQBWg zxIrf"
+                src="19.jpeg"
+              />
+            </div>
+            <div
+              class="sc-eCImPb ifZjaM"
+            >
+              <div
+                class="sc-jRQBWg bFRFMi"
+                src="23.jpeg"
+              />
+            </div>
+            <div
+              class="sc-eCImPb ifZjaM"
+            >
+              <div
+                class="sc-jRQBWg ifQyDt"
+                src="24.jpeg"
+              />
+            </div>
+            <div
+              class="sc-eCImPb ifZjaM"
+            >
+              <div
+                class="sc-jRQBWg iQunLI"
+                src="25.jpeg"
+              />
+            </div>
+          </div>
+        </div>
+        <div
+          class="container-footer"
+        >
+          <p>
+            After use our site indicate for your friends, comment how was your expirence when using the Wallet
+          </p>
+        </div>
+      </div>
+      <div
+        class="sc-dJjYzT eondaW"
+      >
+        <div
+          class="sc-hGPBjI bGdEVh"
+        >
+          <div
+            class="sc-gKclnd hkwdYv"
+          >
+            <div
+              class="sc-iCfMLu igtpUX"
+            />
+            <p>
+              Criando seu cartão ...
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`Home Page should be able to render Success Card  should be able simulate click button create outher card and call function handleClearCard 1`] = `
+<DocumentFragment>
+  <div
+    class="sc-iwjdpV bzjClx"
+  >
+    <div>
+      <div
+        class="sc-cxpSdN jCjCOy"
+      />
+    </div>
+    <div>
+      <p>
+        Your wallet
+      </p>
+      <p>
+        digital
+      </p>
+    </div>
+  </div>
+  <div
+    class="sc-llYSUQ kWtNHa"
+  >
+    <div
+      class="sc-fFeiMQ gRnYkL"
+    >
+      <div
+        class="sc-bkkeKt gvCfsz"
+      >
+        <div
+          class="container-list"
+        >
+          <p>
+            Hi, Welcome to Wallet
+          </p>
+          <span>
+            The wallet digital help you controlled your cards, with it your can create your cards simple and with the design very sophisticated
+          </span>
+        </div>
+        <div
+          class="container-design"
+        >
+          <p>
+            Some of our desing for use in your card...
+          </p>
+          <div
+            class="sc-ieecCq kmdjgO"
+          >
+            <div
+              class="sc-eCImPb ifZjaM"
+            >
+              <div
+                class="sc-jRQBWg bvzNPm"
+                src="10.jpeg"
+              />
+            </div>
+            <div
+              class="sc-eCImPb ifZjaM"
+            >
+              <div
+                class="sc-jRQBWg eqcYAQ"
+                src="12.jpeg"
+              />
+            </div>
+            <div
+              class="sc-eCImPb ifZjaM"
+            >
+              <div
+                class="sc-jRQBWg lmbYZx"
+                src="13.jpeg"
+              />
+            </div>
+            <div
+              class="sc-eCImPb ifZjaM"
+            >
+              <div
+                class="sc-jRQBWg enXMeK"
+                src="14.jpeg"
+              />
+            </div>
+            <div
+              class="sc-eCImPb ifZjaM"
+            >
+              <div
+                class="sc-jRQBWg hiAWQo"
+                src="16.jpeg"
+              />
+            </div>
+            <div
+              class="sc-eCImPb ifZjaM"
+            >
+              <div
+                class="sc-jRQBWg cPenPZ"
+                src="17.jpeg"
+              />
+            </div>
+            <div
+              class="sc-eCImPb ifZjaM"
+            >
+              <div
+                class="sc-jRQBWg zxIrf"
+                src="19.jpeg"
+              />
+            </div>
+            <div
+              class="sc-eCImPb ifZjaM"
+            >
+              <div
+                class="sc-jRQBWg bFRFMi"
+                src="23.jpeg"
+              />
+            </div>
+            <div
+              class="sc-eCImPb ifZjaM"
+            >
+              <div
+                class="sc-jRQBWg ifQyDt"
+                src="24.jpeg"
+              />
+            </div>
+            <div
+              class="sc-eCImPb ifZjaM"
+            >
+              <div
+                class="sc-jRQBWg iQunLI"
+                src="25.jpeg"
+              />
+            </div>
+          </div>
+        </div>
+        <div
+          class="container-footer"
+        >
+          <p>
+            After use our site indicate for your friends, comment how was your expirence when using the Wallet
+          </p>
+          <p>
+            Thank you for used out site!
+          </p>
+        </div>
+      </div>
+      <div
+        class="sc-dJjYzT ibzJxK"
+      >
+        <div
+          class="sc-hGPBjI bGdEVh"
+        >
+          <div
+            class="sc-kfPuZi eetjan"
+          >
+            <div
+              class="sc-fKVqWL cEDeVA"
+            >
+              <div
+                class="icon"
+              >
+                <svg
+                  color="#20be79"
+                  fill="none"
+                  height="100"
+                  stroke="currentColor"
+                  stroke-linecap="round"
+                  stroke-linejoin="round"
+                  stroke-width="2"
+                  style="color: rgb(32, 190, 121);"
+                  viewBox="0 0 24 24"
+                  width="100"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <polyline
+                    points="20 6 9 17 4 12"
+                  />
+                </svg>
+              </div>
+              <div
+                class="head-description"
+              >
+                <p>
+                  Card created successfully
+                </p>
+                <span>
+                  Your card was created and is ready to be used.
+                </span>
+                <span>
+                  We hope you like it!
+                </span>
+              </div>
+            </div>
+            <div
+              class="sc-bBHxTw jkcdWH"
+            >
+              <p>
+                Data of card
+              </p>
+              <div
+                class="container-info-card"
+              >
+                <div
+                  class="info-card"
+                >
+                  <p>
+                    number
+                  </p>
+                  <p>
+                    ************0125
+                  </p>
+                </div>
+                <div
+                  class="info-card"
+                >
+                  <p>
+                    name
+                  </p>
+                  <p>
+                    HYAN KELWIN SILVA FREITAS
+                  </p>
+                </div>
+                <div
+                  class="info-card"
+                >
+                  <p>
+                    expiration_month
+                  </p>
+                  <p>
+                    10
+                  </p>
+                </div>
+                <div
+                  class="info-card"
+                >
+                  <p>
+                    expiration_year
+                  </p>
+                  <p>
+                    2028
+                  </p>
+                </div>
+                <div
+                  class="info-card"
+                >
+                  <p>
+                    cvv
+                  </p>
+                  <p>
+                    123
+                  </p>
+                </div>
+              </div>
+            </div>
+            <button
+              class="sc-fotOHu ghEvsB"
+              color="#FFFFFF"
+              type="submit"
+            >
+              Create outher card
+            </button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`Home Page should be able to render Success Card  should be able to render Home page with success 1`] = `
+<DocumentFragment>
+  <div
+    class="sc-iwjdpV bzjClx"
+  >
+    <div>
+      <div
+        class="sc-cxpSdN jCjCOy"
+      />
+    </div>
+    <div>
+      <p>
+        Your wallet
+      </p>
+      <p>
+        digital
+      </p>
+    </div>
+  </div>
+  <div
+    class="sc-llYSUQ kWtNHa"
+  >
+    <div
+      class="sc-fFeiMQ gRnYkL"
+    >
+      <div
+        class="sc-bkkeKt gvCfsz"
+      >
+        <div
+          class="container-list"
+        >
+          <p>
+            Hi, Welcome to Wallet
+          </p>
+          <span>
+            The wallet digital help you controlled your cards, with it your can create your cards simple and with the design very sophisticated
+          </span>
+        </div>
+        <div
+          class="container-design"
+        >
+          <p>
+            Some of our desing for use in your card...
+          </p>
+          <div
+            class="sc-ieecCq kmdjgO"
+          >
+            <div
+              class="sc-eCImPb ifZjaM"
+            >
+              <div
+                class="sc-jRQBWg bvzNPm"
+                src="10.jpeg"
+              />
+            </div>
+            <div
+              class="sc-eCImPb ifZjaM"
+            >
+              <div
+                class="sc-jRQBWg eqcYAQ"
+                src="12.jpeg"
+              />
+            </div>
+            <div
+              class="sc-eCImPb ifZjaM"
+            >
+              <div
+                class="sc-jRQBWg lmbYZx"
+                src="13.jpeg"
+              />
+            </div>
+            <div
+              class="sc-eCImPb ifZjaM"
+            >
+              <div
+                class="sc-jRQBWg enXMeK"
+                src="14.jpeg"
+              />
+            </div>
+            <div
+              class="sc-eCImPb ifZjaM"
+            >
+              <div
+                class="sc-jRQBWg hiAWQo"
+                src="16.jpeg"
+              />
+            </div>
+            <div
+              class="sc-eCImPb ifZjaM"
+            >
+              <div
+                class="sc-jRQBWg cPenPZ"
+                src="17.jpeg"
+              />
+            </div>
+            <div
+              class="sc-eCImPb ifZjaM"
+            >
+              <div
+                class="sc-jRQBWg zxIrf"
+                src="19.jpeg"
+              />
+            </div>
+            <div
+              class="sc-eCImPb ifZjaM"
+            >
+              <div
+                class="sc-jRQBWg bFRFMi"
+                src="23.jpeg"
+              />
+            </div>
+            <div
+              class="sc-eCImPb ifZjaM"
+            >
+              <div
+                class="sc-jRQBWg ifQyDt"
+                src="24.jpeg"
+              />
+            </div>
+            <div
+              class="sc-eCImPb ifZjaM"
+            >
+              <div
+                class="sc-jRQBWg iQunLI"
+                src="25.jpeg"
+              />
+            </div>
+          </div>
+        </div>
+        <div
+          class="container-footer"
+        >
+          <p>
+            After use our site indicate for your friends, comment how was your expirence when using the Wallet
+          </p>
+          <p>
+            Thank you for used out site!
+          </p>
+        </div>
+      </div>
+      <div
+        class="sc-dJjYzT ibzJxK"
+      >
+        <div
+          class="sc-hGPBjI bGdEVh"
+        >
+          <div
+            class="sc-kfPuZi eetjan"
+          >
+            <div
+              class="sc-fKVqWL cEDeVA"
+            >
+              <div
+                class="icon"
+              >
+                <svg
+                  color="#20be79"
+                  fill="none"
+                  height="100"
+                  stroke="currentColor"
+                  stroke-linecap="round"
+                  stroke-linejoin="round"
+                  stroke-width="2"
+                  style="color: rgb(32, 190, 121);"
+                  viewBox="0 0 24 24"
+                  width="100"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <polyline
+                    points="20 6 9 17 4 12"
+                  />
+                </svg>
+              </div>
+              <div
+                class="head-description"
+              >
+                <p>
+                  Card created successfully
+                </p>
+                <span>
+                  Your card was created and is ready to be used.
+                </span>
+                <span>
+                  We hope you like it!
+                </span>
+              </div>
+            </div>
+            <div
+              class="sc-bBHxTw jkcdWH"
+            >
+              <p>
+                Data of card
+              </p>
+              <div
+                class="container-info-card"
+              >
+                <div
+                  class="info-card"
+                >
+                  <p>
+                    number
+                  </p>
+                  <p>
+                    ************0125
+                  </p>
+                </div>
+                <div
+                  class="info-card"
+                >
+                  <p>
+                    name
+                  </p>
+                  <p>
+                    HYAN KELWIN SILVA FREITAS
+                  </p>
+                </div>
+                <div
+                  class="info-card"
+                >
+                  <p>
+                    expiration_month
+                  </p>
+                  <p>
+                    10
+                  </p>
+                </div>
+                <div
+                  class="info-card"
+                >
+                  <p>
+                    expiration_year
+                  </p>
+                  <p>
+                    2028
+                  </p>
+                </div>
+                <div
+                  class="info-card"
+                >
+                  <p>
+                    cvv
+                  </p>
+                  <p>
+                    123
+                  </p>
+                </div>
+              </div>
+            </div>
+            <button
+              class="sc-fotOHu ghEvsB"
+              color="#FFFFFF"
+              type="submit"
+            >
+              Create outher card
+            </button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;
