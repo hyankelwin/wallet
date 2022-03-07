@@ -113,6 +113,32 @@ $ yarn start
 
 ---
 
+## 🚀 Como executar os testes
+
+Para os testes utilizamos o <b>Jest</b> e para roda-lo é bem simples:
+
+#### 🎲 Executando os testes
+
+```bash
+
+# Rode seguinte comando no terminal
+$ yarn test
+
+
+```
+
+#### 🎲 Executando os testes com coverage
+
+```bash
+
+# Rode seguinte comando no terminal
+$ yarn test:coverage
+
+
+```
+
+---
+
 ## 🛠 Tecnologias
 
 As seguintes ferramentas foram usadas na construção do projeto:
