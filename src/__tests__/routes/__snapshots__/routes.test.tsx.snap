@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Routes page should render RouteProps with success 1`] = `
+"<Router history={{...}}>
+  <Route />
+</Router>"
+`;
+
+exports[`Routes page should render Routes with success 1`] = `
+"<Switch>
+  <Route path=\\"/\\" exact={true} component={[Function: Home]} />
+</Switch>"
+`;
