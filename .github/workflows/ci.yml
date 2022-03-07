@@ -1,0 +1,49 @@
+name: CI
+
+on:
+  pull_request:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    env:
+      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+        with:
+          fetch-depth: 0
+
+      - name: Install Node.js
+        uses: actions/setup-node@v1
+        with:
+          node-version: 14
+
+      - name: Install dependencies
+        run: yarn
+
+      - name: Check tests
+        run: yarn test:CI
+
+      - name: Check linting
+        run: yarn lint
+
+      - name: Check commit message
+        uses: wagoid/commitlint-github-action@v1
+
+      - name: Coveralls
+        uses: coverallsapp/github-action@master
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: akhileshns/heroku-deploy@v3.12.12
+        with:
+          heroku_api_key: ${{ secrets.HEROKU_API_KEY }}
+          heroku_app_name: 'web-wallet'
+          heroku_email: 'hyan.kcampos@gmail.com'
