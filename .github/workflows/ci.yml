@@ -25,7 +25,7 @@ jobs:
         run: yarn
 
       - name: Check tests
-        run: yarn test:CI
+        run: yarn test:coverage
 
       - name: Check linting
         run: yarn lint
