@@ -134,8 +134,31 @@ $ yarn test
 # Rode seguinte comando no terminal
 $ yarn test:coverage
 
-
 ```
+
+---
+
+## :cloud: Disponivel na web
+
+O Wallet também disponivel na web, para encontra-lo basta acessar o seguinte
+endereço na web:
+
+[Site Wallet](https://web-wallet.herokuapp.com/)
+
+---
+
+## :cyclone: Coveralls
+
+Pensado como forma de garantir qualidade no desenvolvimento, o wallet possui integração
+continua com o <b>Coveralls</b>. Ele é uma ferramenta de qualidade de codigo utilizada para
+visualização forma mais completa o codigo distribuido para master.
+
+[Coveralls Wallet](https://coveralls.io/github/hyankelwin/wallet)
+
+[Image](https://drive.google.com/file/d/1DYQKa9Du3a-9gp5Y29vNwg8LkrlZCYyk/view?usp=sharing)
+
+💡 Esta imagem foi inserida acima para caso houver algum problema com acesso ao
+coveralls
 
 ---
 
