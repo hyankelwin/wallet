@@ -54,17 +54,17 @@ O <b>Wallet</b> veio como seu principal objetivo de <i>"ser a sua carteira digit
 ### Web
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="home" title="#home" src="./src/assets/images/screenshot-web-home.png">
-  <img alt="home-fill" title="#uhome-fill" src="./src/assets/images/screenshot-web-home-fill.png">
-  <img alt="home-created" title="#home-created" src="./src/assets/images/screenshot-web-created.png">
+  <img alt="home" title="#home" src="./src/assets/screenshots/screenshot-web-home.png">
+  <img alt="home-fill" title="#uhome-fill" src="./src/assets/screenshots/screenshot-web-home-fill.png">
+  <img alt="home-created" title="#home-created" src="./src/assets/screenshots/screenshot-web-created.png">
 </p>
 
 ### Mobile
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="home" title="#home" src="./src/assets/images/screenshot-mobile-home.png" width="250px">
-  <img alt="home-fill" title="#home-fill" src="./src/assets/images/screenshot-mobile-home-fill.png" width="250px">
-  <img alt="home-created" title="#home-created" src="./src/assets/images/screenshot-mobile-created.png" width="250px">
+  <img alt="home" title="#home" src="./src/assets/screenshots/screenshot-mobile-home.png" width="250px">
+  <img alt="home-fill" title="#home-fill" src="./src/assets/screenshots/screenshot-mobile-home-fill.png" width="250px">
+  <img alt="home-created" title="#home-created" src="./src/assets/screenshots/screenshot-mobile-created.png" width="250px">
 </p>
 
 ---
