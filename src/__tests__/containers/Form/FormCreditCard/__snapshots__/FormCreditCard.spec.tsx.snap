@@ -1,0 +1,617 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`FormCreditCard container should be able to add new credit card on FormCreditCard container with success 1`] = `
+<DocumentFragment>
+  <form>
+    <div
+      class="sc-hKwDye bTTcgA"
+    >
+      <div
+        class="sc-eCImPb gmgBGq"
+        data-testid="image-card-test"
+      />
+      <div
+        class="sc-eCImPb jocPJw"
+        data-testid="image-card-test"
+      />
+      <div
+        class="sc-eCImPb kYySTF"
+        data-testid="image-card-test"
+      />
+      <div
+        class="sc-eCImPb lmsHkS"
+        data-testid="image-card-test"
+      />
+      <div
+        class="sc-eCImPb cYTlPc"
+        data-testid="image-card-test"
+      />
+      <div
+        class="sc-eCImPb eJpoZl"
+        data-testid="image-card-test"
+      />
+      <div
+        class="sc-eCImPb bMRswX"
+        data-testid="image-card-test"
+      />
+      <div
+        class="sc-eCImPb eUyLNK"
+        data-testid="image-card-test"
+      />
+      <div
+        class="sc-eCImPb euxoHt"
+        data-testid="image-card-test"
+      />
+      <div
+        class="sc-eCImPb iuwLGw"
+        data-testid="image-card-test"
+      />
+    </div>
+    <div
+      class="sc-bdvvtL cdqBYk"
+    >
+      <div
+        class="sc-dkPtRN hnnHcG"
+      >
+        <span>
+          Card number
+        </span>
+        <div
+          class="sc-gKclnd heEQIa"
+          data-testid="input-container"
+        >
+          <svg
+            fill="none"
+            height="20"
+            stroke="currentColor"
+            stroke-linecap="round"
+            stroke-linejoin="round"
+            stroke-width="2"
+            viewBox="0 0 24 24"
+            width="20"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <path
+              d="M21 2l-2 2m-7.61 7.61a5.5 5.5 0 1 1-7.778 7.778 5.5 5.5 0 0 1 7.777-7.777zm0 0L15.5 7.5m0 0l3 3L22 7l-3-3m-3.5 3.5L19 4"
+            />
+          </svg>
+          <input
+            data-testid="input-number"
+            value=""
+          />
+        </div>
+      </div>
+      <div
+        class="sc-dkPtRN hnnHcG"
+      >
+        <span>
+          Card name
+        </span>
+        <div
+          class="sc-gKclnd heEQIa"
+          data-testid="input-container"
+        >
+          <svg
+            fill="none"
+            height="20"
+            stroke="currentColor"
+            stroke-linecap="round"
+            stroke-linejoin="round"
+            stroke-width="2"
+            viewBox="0 0 24 24"
+            width="20"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <path
+              d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"
+            />
+            <circle
+              cx="12"
+              cy="7"
+              r="4"
+            />
+          </svg>
+          <input
+            data-testid="input-name"
+            style="text-transform: uppercase;"
+            value=""
+          />
+        </div>
+      </div>
+      <div
+        class="sc-dkPtRN hnnHcG"
+      >
+        <span>
+          Expiration date
+        </span>
+        <div
+          class="row"
+        >
+          <div
+            class="expiration-input"
+          >
+            <div
+              class="sc-furwcr kYUlhF"
+              data-testid="input-select-container"
+            >
+              <select
+                data-testid="input-month"
+              >
+                <option
+                  hidden=""
+                  value=""
+                >
+                  Month
+                </option>
+                <option
+                  value="01"
+                >
+                  01
+                </option>
+                <option
+                  value="02"
+                >
+                  02
+                </option>
+                <option
+                  value="03"
+                >
+                  03
+                </option>
+                <option
+                  value="04"
+                >
+                  04
+                </option>
+                <option
+                  value="05"
+                >
+                  05
+                </option>
+                <option
+                  value="06"
+                >
+                  06
+                </option>
+                <option
+                  value="07"
+                >
+                  07
+                </option>
+                <option
+                  value="08"
+                >
+                  08
+                </option>
+                <option
+                  value="09"
+                >
+                  09
+                </option>
+                <option
+                  value="10"
+                >
+                  10
+                </option>
+                <option
+                  value="11"
+                >
+                  11
+                </option>
+                <option
+                  value="12"
+                >
+                  12
+                </option>
+              </select>
+            </div>
+            <div
+              class="sc-furwcr kYUlhF"
+              data-testid="input-select-container"
+            >
+              <select
+                data-testid="input-year"
+              >
+                <option
+                  hidden=""
+                  value=""
+                >
+                  Year
+                </option>
+                <option
+                  value="2022"
+                >
+                  2022
+                </option>
+                <option
+                  value="2023"
+                >
+                  2023
+                </option>
+                <option
+                  value="2024"
+                >
+                  2024
+                </option>
+                <option
+                  value="2025"
+                >
+                  2025
+                </option>
+                <option
+                  value="2026"
+                >
+                  2026
+                </option>
+                <option
+                  value="2027"
+                >
+                  2027
+                </option>
+                <option
+                  value="2028"
+                >
+                  2028
+                </option>
+                <option
+                  value="2029"
+                >
+                  2029
+                </option>
+                <option
+                  value="2030"
+                >
+                  2030
+                </option>
+                <option
+                  value="2031"
+                >
+                  2031
+                </option>
+                <option
+                  value="2032"
+                >
+                  2032
+                </option>
+              </select>
+            </div>
+          </div>
+          <div
+            class="cvv"
+          >
+            <div
+              class="sc-gKclnd heEQIa"
+              data-testid="input-container"
+            >
+              <input
+                data-testid="input-cvv"
+                placeholder="CVV"
+                value=""
+              />
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        class="sc-gsDKAQ hrNEzd"
+      >
+        <button
+          class="sc-jrQzAO kdZdkP"
+          color="#FFFFFF"
+          type="submit"
+        >
+          Create new card
+        </button>
+      </div>
+    </div>
+  </form>
+</DocumentFragment>
+`;
+
+exports[`FormCreditCard container should be able to add new credit card on FormCreditCard when year equal current 1`] = `
+<DocumentFragment>
+  <form>
+    <div
+      class="sc-hKwDye bTTcgA"
+    >
+      <div
+        class="sc-eCImPb gmgBGq"
+        data-testid="image-card-test"
+      />
+      <div
+        class="sc-eCImPb jocPJw"
+        data-testid="image-card-test"
+      />
+      <div
+        class="sc-eCImPb kYySTF"
+        data-testid="image-card-test"
+      />
+      <div
+        class="sc-eCImPb lmsHkS"
+        data-testid="image-card-test"
+      />
+      <div
+        class="sc-eCImPb cYTlPc"
+        data-testid="image-card-test"
+      />
+      <div
+        class="sc-eCImPb eJpoZl"
+        data-testid="image-card-test"
+      />
+      <div
+        class="sc-eCImPb bMRswX"
+        data-testid="image-card-test"
+      />
+      <div
+        class="sc-eCImPb eUyLNK"
+        data-testid="image-card-test"
+      />
+      <div
+        class="sc-eCImPb euxoHt"
+        data-testid="image-card-test"
+      />
+      <div
+        class="sc-eCImPb iuwLGw"
+        data-testid="image-card-test"
+      />
+    </div>
+    <div
+      class="sc-bdvvtL cdqBYk"
+    >
+      <div
+        class="sc-dkPtRN hnnHcG"
+      >
+        <span>
+          Card number
+        </span>
+        <div
+          class="sc-gKclnd heEQIa"
+          data-testid="input-container"
+        >
+          <svg
+            fill="none"
+            height="20"
+            stroke="currentColor"
+            stroke-linecap="round"
+            stroke-linejoin="round"
+            stroke-width="2"
+            viewBox="0 0 24 24"
+            width="20"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <path
+              d="M21 2l-2 2m-7.61 7.61a5.5 5.5 0 1 1-7.778 7.778 5.5 5.5 0 0 1 7.777-7.777zm0 0L15.5 7.5m0 0l3 3L22 7l-3-3m-3.5 3.5L19 4"
+            />
+          </svg>
+          <input
+            data-testid="input-number"
+            value=""
+          />
+        </div>
+      </div>
+      <div
+        class="sc-dkPtRN hnnHcG"
+      >
+        <span>
+          Card name
+        </span>
+        <div
+          class="sc-gKclnd heEQIa"
+          data-testid="input-container"
+        >
+          <svg
+            fill="none"
+            height="20"
+            stroke="currentColor"
+            stroke-linecap="round"
+            stroke-linejoin="round"
+            stroke-width="2"
+            viewBox="0 0 24 24"
+            width="20"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <path
+              d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"
+            />
+            <circle
+              cx="12"
+              cy="7"
+              r="4"
+            />
+          </svg>
+          <input
+            data-testid="input-name"
+            style="text-transform: uppercase;"
+            value=""
+          />
+        </div>
+      </div>
+      <div
+        class="sc-dkPtRN hnnHcG"
+      >
+        <span>
+          Expiration date
+        </span>
+        <div
+          class="row"
+        >
+          <div
+            class="expiration-input"
+          >
+            <div
+              class="sc-furwcr kYUlhF"
+              data-testid="input-select-container"
+            >
+              <select
+                data-testid="input-month"
+              >
+                <option
+                  hidden=""
+                  value=""
+                >
+                  Month
+                </option>
+                <option
+                  value="01"
+                >
+                  01
+                </option>
+                <option
+                  value="02"
+                >
+                  02
+                </option>
+                <option
+                  value="03"
+                >
+                  03
+                </option>
+                <option
+                  value="04"
+                >
+                  04
+                </option>
+                <option
+                  value="05"
+                >
+                  05
+                </option>
+                <option
+                  value="06"
+                >
+                  06
+                </option>
+                <option
+                  value="07"
+                >
+                  07
+                </option>
+                <option
+                  value="08"
+                >
+                  08
+                </option>
+                <option
+                  value="09"
+                >
+                  09
+                </option>
+                <option
+                  value="10"
+                >
+                  10
+                </option>
+                <option
+                  value="11"
+                >
+                  11
+                </option>
+                <option
+                  value="12"
+                >
+                  12
+                </option>
+              </select>
+            </div>
+            <div
+              class="sc-furwcr kYUlhF"
+              data-testid="input-select-container"
+            >
+              <select
+                data-testid="input-year"
+              >
+                <option
+                  hidden=""
+                  value=""
+                >
+                  Year
+                </option>
+                <option
+                  value="2022"
+                >
+                  2022
+                </option>
+                <option
+                  value="2023"
+                >
+                  2023
+                </option>
+                <option
+                  value="2024"
+                >
+                  2024
+                </option>
+                <option
+                  value="2025"
+                >
+                  2025
+                </option>
+                <option
+                  value="2026"
+                >
+                  2026
+                </option>
+                <option
+                  value="2027"
+                >
+                  2027
+                </option>
+                <option
+                  value="2028"
+                >
+                  2028
+                </option>
+                <option
+                  value="2029"
+                >
+                  2029
+                </option>
+                <option
+                  value="2030"
+                >
+                  2030
+                </option>
+                <option
+                  value="2031"
+                >
+                  2031
+                </option>
+                <option
+                  value="2032"
+                >
+                  2032
+                </option>
+              </select>
+            </div>
+          </div>
+          <div
+            class="cvv"
+          >
+            <div
+              class="sc-gKclnd heEQIa"
+              data-testid="input-container"
+            >
+              <input
+                data-testid="input-cvv"
+                placeholder="CVV"
+                value=""
+              />
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        class="sc-gsDKAQ hrNEzd"
+      >
+        <button
+          class="sc-jrQzAO kdZdkP"
+          color="#FFFFFF"
+          type="submit"
+        >
+          Create new card
+        </button>
+      </div>
+    </div>
+  </form>
+</DocumentFragment>
+`;
