@@ -1,6 +1,6 @@
 <div align="center">
 <br>
-  <img src="./src/assets/logos/logo.png" alt="wallet" width="120">
+  <img src="./src/assets/logos/logo-white.png" alt="wallet" width="120">
 <br>
 </div>
 
